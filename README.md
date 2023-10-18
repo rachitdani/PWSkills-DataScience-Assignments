@@ -1,6 +1,6 @@
 # PW Skills DataScience Course Assignment Solutions 
 
-This repository contains the assignment solutions solved during the course duration of DataScience Masters by PwSkills
+This repository contains the assignment solutions solved during the course duration of Data Science Masters by Pw Skills
 
 ## Introduction
 
@@ -11,7 +11,7 @@ The course is also currently going on so it will be updated regularly whenever a
 
 ## Structure
 
-The Assignments are names in the format ``Project_WeekNo_AssignmentNumberofthatWeek_ConceptUsedintheAssignment.ipynb``.
+The Assignments are names in the format :  ``Project_WeekNo_AssignmentNumberofthatWeek_ConceptUsedintheAssignment.ipynb``.
 
 In the solutions while solving the assignments I have also gone a bit deep by exploring the web and learning new things which are also a part in some assignments. Also, I have made notes for all the topics and a detailed repository will be made soon in a much more structured format including some pratice codes, notes, assignment questions and solutions.
 
@@ -28,6 +28,6 @@ There is also a scoreboard in the course to encourage people to complete assignm
 
 ## Contribution
 
-I would not be accepting contibution for this repository as it contains my personal solutions . However, if you have any suggestions or improvements related to the code or solution, you can open an issue in the repository, and I will review it.
+I will not be accepting any contibutions for this repository as it contains my personal solutions . However, if you have any suggestions or improvements related to the code or solution, you can open an issue in the repository, and I will review it.
 
 
